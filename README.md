@@ -6,7 +6,7 @@ This is a documentation-only introductory repository. It does not contain the pa
 
 [Official product and purchase details](https://southalien.gumroad.com/l/jarvis-media-export?utm_source=github&utm_medium=repository&utm_campaign=jarvis_media_v1_2_launch)
 
-Demo video: pending verified upload. A link will be added after publication. Demonstration material uses sanitized recorded metadata and a clearly labeled illustrated workflow, not a claimed live recording or fabricated before/after.
+[Watch the published YouTube Short](https://www.youtube.com/shorts/gYUYjVHijkE). Demonstration material uses sanitized recorded metadata and a clearly labeled illustrated workflow, not a claimed live recording or fabricated before/after.
 
 ![Illustrated workflow—not a live recording](demo/workflow.png)
 
